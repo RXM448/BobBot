@@ -1,0 +1,2 @@
+# BobBot
+Discord music bot
